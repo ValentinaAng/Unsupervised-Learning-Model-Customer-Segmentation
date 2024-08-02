@@ -19,6 +19,8 @@ The dataset consists of 440 instances and includes the following features:
 - `Detergents_Paper:` Annual spending (m.u.) on detergents and paper products.
 - `Delicassen:` Annual spending (m.u.) on delicatessen products.
 
+  Link: https://archive.ics.uci.edu/dataset/292/wholesale+customers
+
 ## Table of Contents:
 1. Preliminary Data Analysis
 2. Exploratory Data Analysis
